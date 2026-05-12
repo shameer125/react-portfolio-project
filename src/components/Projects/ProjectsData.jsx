@@ -7,7 +7,7 @@ import img6 from '../../assets/image6.png';
 
 const projectsData = [
   {
-    title: "Luxe Shop with Dash",
+    title: "Luxe Shop",
     image: img1,
     viewLink: "https://luxe-shop-qweu.vercel.app",
     codeLink: "https://github.com/shameer125/luxeShop",
